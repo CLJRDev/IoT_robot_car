@@ -1,4 +1,4 @@
-Wi-Fi Controlled Mobile Car with ESP8266
+Wi-Fi Controlled Mobile Car with ESP8266.
 This project demonstrates how to build a mobile car that can be controlled over Wi-Fi using an ESP8266 microcontroller. 
 The ESP8266 hosts a web server that provides a simple control interface for moving the car forward, backward, left, right, stop, and track its location via Bluetooth.
 
